@@ -2,8 +2,8 @@
 Giving a workshop on Web-Development from scratch.
 
 ## Agenda
-[] Basic Terminology of web development <br>
-[] Git   <br>
+[*] Basic Terminology of web development <br>
+[*] Git   <br>
 [] Website Structure <br>
 [] HTML <br>
 [] Bootstrap/Material Design <br>
