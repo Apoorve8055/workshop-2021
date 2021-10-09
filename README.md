@@ -2,13 +2,13 @@
 Giving a workshop on Web-Development from scratch.
 
 ## Agenda
-[] Basic Terminology of web development
-[] Git 
-[] Website Structure
-[] HTML
-[] Bootstrap/Material Design
-[] CSS - scratch
-[] JAVASCRIPT - scratch 
-[] Vanilla Script
-[] JQuery
+[] Basic Terminology of web development <br>
+[] Git   <br>
+[] Website Structure <br>
+[] HTML <br>
+[] Bootstrap/Material Design <br>
+[] CSS - scratch <br>
+[] JAVASCRIPT - scratch  <br>
+[] Vanilla Script <br>
+[] JQuery <br>
 [] Hosting
